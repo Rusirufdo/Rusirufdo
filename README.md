@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rusirufdo
-- 👀 I’m interested in electronic engineering
+- 👀 I’m interested in android app development,Machine learning
 - 🌱 I’m currently learning electronic and telecommunication engineering
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me 
